@@ -8,6 +8,8 @@ This is a list of content (Videos, tutorials, guides) I have used to learn more 
 #### Day One 
 Aim: Understanding the ecosystem.
 - [What is it / Introduction?](https://www.youtube.com/watch?v=wFZ_YIetK1o&ab_channel=Topology)
+- [Primer on ZK](https://www.notboring.co/p/zero-knowledge?s=r)
+- [Thread on ZK resources](https://twitter.com/mrjasonchoi/status/1522637270167089153)
 - What makes Starknet different as a L2?
 - [What is account abstraction?](https://www.argent.xyz/blog/wtf-is-account-abstraction/)
 
@@ -37,5 +39,24 @@ Media
 Tutorials
 - [Building on Cairo](https://www.youtube.com/watch?v=Vv1WTwWylp0)
 Lucas Levy suggested the learning path to Cairo is via [Starknet Edu Github](https://github.com/starknet-edu) and [Starklings](https://github.com/onlydustxyz/starklings) created by the Onlydust team 
-Resource Guides
+- Exercises 0 - X
 
+
+#### Day Three
+
+
+Resource Guides
+- X
+
+
+Communities
+- MatchboxDAO
+- StarkwareFrance
+- OnlyDust
+
+Other
+- https://solve2mint.netlify.app/
+
+Media
+- [Substack](https://swagtimus.substack.com)
+- [Starkware Youtube](https://www.youtube.com/channel/UCnDWguR8mE2oDBsjhQkgbvg/videos)
